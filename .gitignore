@@ -1,0 +1,20 @@
+# Ignore compiled files
+*.o
+*.out
+*.exe
+
+# Ignore CUnit test outputs
+*.gcda
+*.gcno
+*.gcov
+
+# Ignore logs
+*.log
+
+# Ignore build artifacts
+/build/
+/bin/
+/obj/
+
+# Ignore temporary files
+*.swp
